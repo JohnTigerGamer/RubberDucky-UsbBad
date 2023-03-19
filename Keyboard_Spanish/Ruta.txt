@@ -1,0 +1,4 @@
+Ruta donde está la librería:
+----------------------------
+c:\Users\usuario\Documents\Arduino\libraries\
+
